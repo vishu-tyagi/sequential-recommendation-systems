@@ -23,3 +23,5 @@ by incorporating the user’s dynamic uncertainty in choices and collaborative t
 Submission File: [Link](https://drive.google.com/file/d/1givFdmx_80EWB2KGFIPFXpaGXo2G_i8t/view?usp=sharing)  
 Current Position on the leaderboard: 131 out of 1,641 teams
 
+Reference:
+1. For Ensemble Model: https://www.kaggle.com/code/atulverma/h-m-ensembling-with-lstm 
