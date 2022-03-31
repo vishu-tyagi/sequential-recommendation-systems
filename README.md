@@ -1,4 +1,4 @@
-# Sequential Recommendation Systems Using Stochastic Self- Attention Sequential Model
+# Sequential Recommendation Systems
 Repository for Deep Learning Spring 2022 Project: Sequential Recommendation Systems Using Stochastic Self- Attention Sequential Model
 
 Contributors:
