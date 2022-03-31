@@ -18,3 +18,8 @@ product self-attention mechanism will identify the relationship between items (a
 **Problem Statement:**  
      The problem statement is: Given a set of users U and items V and their associated interactions in chronological order, our goal is to recommend topN items as potential next item in the sequence
 by incorporating the user’s dynamic uncertainty in choices and collaborative transitivity in item interactions.
+
+
+Submission File: [Link](https://drive.google.com/file/d/1givFdmx_80EWB2KGFIPFXpaGXo2G_i8t/view?usp=sharing)  
+Current Position on the leaderboard: 131 out of 1,641 teams
+
