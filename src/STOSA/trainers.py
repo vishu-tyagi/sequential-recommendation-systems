@@ -89,7 +89,7 @@ class Trainer:
             "HIT@40": '{:.8f}'.format(recall[5]), "NDCG@40": '{:.8f}'.format(ndcg[5]),
             "MRR": '{:.8f}'.format(mrr)
         }
-        print(post_fix, flush=True)
+        # print(post_fix, flush=True)
         with open(self.args.log_file, 'a') as f:
             f.write(str(post_fix) + '\n')
         return [recall[0], ndcg[0], recall[1], ndcg[1], recall[2], ndcg[2], recall[3], ndcg[3], recall[4], ndcg[4], recall[5], ndcg[5], mrr], str(post_fix), [recall_dict_list, ndcg_dict_list, mrr_dict]

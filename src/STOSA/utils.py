@@ -81,7 +81,7 @@ class EarlyStopping:
     def save_checkpoint(self, score, model):
         '''Saves model when validation loss decrease.'''
         if self.verbose:
-            print(f'Validation score increased.  Saving model ...')
+            print(f'Saving model ...')
         torch.save(model.state_dict(), self.checkpoint_path)
         self.score_min = score
 
