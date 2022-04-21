@@ -20,8 +20,12 @@ product self-attention mechanism will identify the relationship between items (a
 by incorporating the user’s dynamic uncertainty in choices and collaborative transitivity in item interactions.
 
 
-Submission File: [Link](https://drive.google.com/file/d/1givFdmx_80EWB2KGFIPFXpaGXo2G_i8t/view?usp=sharing)  
-Current Position on the leaderboard: 131 out of 1,641 teams
+**Results:**  
+Achieved MAP@12 of 0.0236 by ensemble of STOSA and [1]. (+0.002 improvement than ensemble without STOTSA)
+
+**Submission File:**  
+Submission File: [Link](https://drive.google.com/file/d/1lUsZnkmha7NhIUJzbQpssd630odQ9tmu/view?usp=sharing)  
+Current Position on the leaderboard: 394 out of 1,641 teams
 
 Reference:
 1. For Ensemble Model: https://www.kaggle.com/code/atulverma/h-m-ensembling-with-lstm 
