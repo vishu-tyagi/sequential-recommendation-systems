@@ -29,3 +29,7 @@ Current Position on the leaderboard: 394 out of 1,641 teams
 
 Reference:
 1. For Ensemble Model: https://www.kaggle.com/code/atulverma/h-m-ensembling-with-lstm 
+
+Processed dataset for GRU4Rec and SASRec - https://drive.google.com/file/d/1-aEgADVM5yhCmIYgZvkmvZCremX5L-Ma/view?usp=sharing
+
+Processed dataset for STOSA - https://drive.google.com/file/d/1cN9yVLZwxPCopT2h24CH3NfdTXD-N8P7/view?usp=sharing
