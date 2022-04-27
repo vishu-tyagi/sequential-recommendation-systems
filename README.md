@@ -43,6 +43,30 @@ Recommendation via Stochastic Self-Attention
 3. Then run the notebook kaggle_submission_notebook/stosa.ipython to train the model
 Please note that you may have to set up the directory structure and set up working directory path to run these notebooks successfully.
 
+
+**Hyperparameters Used for STOSA**
+
+ `hidden_size`: 128
+ 
+ `num_hidden_layers`: 1
+ 
+ `num_attention_heads`: 4
+ 
+ `hidden_act`: gelu
+ 
+ `hidden_dropout_prob`: 0.3
+ 
+ `max_seq_length`: 50
+ 
+ `distance_metric`: wasserstein
+ 
+ `lr`: 0.01
+ 
+ `batch_size`: 4096
+ 
+ `epochs`: 20
+
+
 For reference, please check this Google Drive folder where we have setup the required directory structure: [Google Drive](https://drive.google.com/drive/folders/1CnLcU39SUHvt1RmG2MGl9bX_JRLYe-8I) 
 
 Processed dataset for GRU4Rec and SASRec - [Google Drive Link](https://drive.google.com/file/d/1-aEgADVM5yhCmIYgZvkmvZCremX5L-Ma/view?usp=sharing)
