@@ -75,7 +75,9 @@ Processed dataset for STOSA - [Google Drive Link](https://drive.google.com/file/
 
 
 **Results:**  
-Achieved MAP@12 of 0.0236 by ensemble of STOSA and [1]. (+0.002 improvement than ensemble without STOTSA)
+Achieved **MAP@12 of 0.0236** by ensemble of STOSA and [1]. 
+
+(+0.002 improvement than ensemble without STOTSA)
 
 **Submission File:**  
 Submission File: [Link](https://drive.google.com/file/d/1lUsZnkmha7NhIUJzbQpssd630odQ9tmu/view?usp=sharing)  
