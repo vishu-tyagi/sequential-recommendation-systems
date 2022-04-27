@@ -44,8 +44,10 @@ Recommendation via Stochastic Self-Attention
 Please note that you may have to set up the directory structure and set up working directory path to run these notebooks successfully.
 
 For reference, please check this Google Drive folder where we have setup the required directory structure: [Google Drive](https://drive.google.com/drive/folders/1CnLcU39SUHvt1RmG2MGl9bX_JRLYe-8I) 
-Processed dataset for GRU4Rec and SASRec - https://drive.google.com/file/d/1-aEgADVM5yhCmIYgZvkmvZCremX5L-Ma/view?usp=sharing
-Processed dataset for STOSA - https://drive.google.com/file/d/1cN9yVLZwxPCopT2h24CH3NfdTXD-N8P7/view?usp=sharing
+
+Processed dataset for GRU4Rec and SASRec - [Google Drive Link](https://drive.google.com/file/d/1-aEgADVM5yhCmIYgZvkmvZCremX5L-Ma/view?usp=sharing)
+
+Processed dataset for STOSA - [Google Drive Link](https://drive.google.com/file/d/1cN9yVLZwxPCopT2h24CH3NfdTXD-N8P7/view?usp=sharing)
 
 
 **Results:**  
