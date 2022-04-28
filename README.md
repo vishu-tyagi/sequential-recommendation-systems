@@ -74,14 +74,18 @@ Processed dataset for GRU4Rec and SASRec - [Google Drive Link](https://drive.goo
 Processed dataset for STOSA - [Google Drive Link](https://drive.google.com/file/d/1cN9yVLZwxPCopT2h24CH3NfdTXD-N8P7/view?usp=sharing)
 
 
+
 **Results:**  
 Achieved **MAP@12 of 0.0236** by ensemble of STOSA and [1]. 
 
-(+0.002 improvement than ensemble without STOTSA)
-
 **Submission File:**  
-Submission File: [Link](https://drive.google.com/file/d/1lUsZnkmha7NhIUJzbQpssd630odQ9tmu/view?usp=sharing)  
+STOSA Submission File: [Link](https://drive.google.com/file/d/1-1LMlI-JQbumQ7v_cbQFISMztCK_XIBt/view)  
 Current Position on the leaderboard: 394 out of 2,348 teams (as of April 20th 2022)
+
+ **Other Results**
+ 1. GRU4Rec recommendations submission file: [Link](https://drive.google.com/file/d/1-TyxM0xLUG23IOD2DYTJLSVGkSOiUeH3/view)
+ 2. SASRec submission file: [Link](https://drive.google.com/file/d/1-9y75BARyo70jLSMjcpYtwdfkNjXtYA-/view?usp=sharing)
+ 
 
 Reference:
 1. For Ensemble Model: https://www.kaggle.com/code/atulverma/h-m-ensembling-with-lstm 
